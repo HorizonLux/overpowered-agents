@@ -1,0 +1,21 @@
+{
+  "name": "sales-lead",
+  "description": "A sales and customer role for businesses that sell to other businesses or get reviewed online. It builds a lawful list of businesses that fit, writes short first emails and follow-ups with the rules for your region, and drafts calm replies to reviews with a weekly routine to keep up.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Get Overpowered",
+    "url": "https://getoverpowered.ai"
+  },
+  "homepage": "https://getoverpowered.ai/skills/#sales-lead",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "email",
+    "outreach",
+    "prospects",
+    "clients",
+    "leads",
+    "reviews",
+    "reply"
+  ]
+}

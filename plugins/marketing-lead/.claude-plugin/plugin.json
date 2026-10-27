@@ -1,0 +1,21 @@
+{
+  "name": "marketing-lead",
+  "description": "A senior marketing role for one person or a small team. It sets your brand voice, plans campaigns, writes the posts and the launch email, briefs the pages Google should find, starts honest conversations with businesses that fit and answers your reviews. Every piece comes back as a draft for you to approve.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Get Overpowered",
+    "url": "https://getoverpowered.ai"
+  },
+  "homepage": "https://getoverpowered.ai/skills/#marketing-lead",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "social",
+    "instagram",
+    "posts",
+    "seo",
+    "google",
+    "brand",
+    "campaign"
+  ]
+}

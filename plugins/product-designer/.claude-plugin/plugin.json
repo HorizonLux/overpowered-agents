@@ -1,0 +1,21 @@
+{
+  "name": "product-designer",
+  "description": "A senior product design role. It maps how people move through your site or app, plans each page's layout and look, specifies every state of every screen and plans a test with five real people. It plans and reviews; you or your developer build.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Get Overpowered",
+    "url": "https://getoverpowered.ai"
+  },
+  "homepage": "https://getoverpowered.ai/skills/#product-designer",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ux",
+    "ui",
+    "layout",
+    "website",
+    "app",
+    "flow",
+    "booking"
+  ]
+}
