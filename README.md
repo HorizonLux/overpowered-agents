@@ -30,6 +30,12 @@ Skills: Outreach (`outreach`), Reputation (`reputation`).
 
 Planned, not written yet: Proposal writer, Support replies, FAQ builder, Lost-deal review.
 
+## Skills on their own
+
+### Finance (`finance`)
+
+Invoices, expense categories and cash-flow summaries. Drafts only: it never moves money, logs in to a bank, files anything or gives tax advice. It belongs to no agent: add it with `npx skills add HorizonLux/overpowered-agents` (pick finance), copy `skills/finance/` into `~/.claude/skills/` or `~/.agents/skills/`, or upload its zip from [getoverpowered.ai/skills/finance](https://getoverpowered.ai/skills/finance/) to the Claude web app.
+
 ## Install
 
 ### Claude Code
@@ -69,6 +75,7 @@ Turn on code execution, download a skill as a .zip from [getoverpowered.ai/skill
 plugins/<agent>/.claude-plugin/     the plugin manifest
 plugins/<agent>/agents/<agent>.md   the agent
 plugins/<agent>/skills/<skill>/     SKILL.md and references/
+skills/<skill>/                     a skill on its own, in no agent (finance)
 ```
 
 A skill used by two agents is copied into both plugins, so each plugin installs on its own.
